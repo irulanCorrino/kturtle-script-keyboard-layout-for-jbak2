@@ -7,3 +7,4 @@ significant strain on my back. it is not good way to go!
 into rack fixture and to relax coding in QEdit!
 - so i need good keyboard for that. i have installed jbak2 from play store
 made by mikhail and yurij from 4pda.ru and it has given me all i need.
+https://play.google.com/store/apps/details?id=com.jbak2.JbakKeyboard
