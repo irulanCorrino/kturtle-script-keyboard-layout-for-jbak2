@@ -1,0 +1,128 @@
+// Created Skin constructor v1.02
+// by MWcorp
+
+//----------
+//Key background
+//----------
+//Gradient start color for key background
+KeyBackStartColor=0xffba6098
+
+//Gradient final color
+KeyBackEndColor=0xffba6098
+
+//Gradient type. 0 - linear, 1 - radial
+KeyBackPressedGradientType=0
+
+//Gradient start color for key background in a pressed state
+KeyBackPressedStartColor=0xffff00e9
+
+//Gradient final color for key background in a pressed state
+KeyBackPressedEndColor=0xffff00e9
+
+//Gradient type of keys in a pressed state. 0 - linear, 1 - radial
+KeyBackGradientType=0
+
+
+//----------
+//Text on keys
+//----------
+//Text color (labels on keys)
+KeyTextColor=0xff23e023
+
+//Bold font (1) or not (0). If it is not set, the regular font will be used
+KeyTextBold=1
+
+//Additional character color
+KeySymbolColor=0xda0000ff
+
+//Text color in a pressed state
+KeyTextPressedColor=0xe9ff0b0b
+
+//Character color in a pressed state
+KeySymbolPressedColor=0xe9ffff16
+
+
+//----------
+//Keyboard key stroke
+//----------
+//Gradient start color for key stroke
+KeyStrokeStartColor=0xff09e8e8
+
+//Gradient final color for key stroke
+KeyStrokeEndColor=0xff550a53
+
+//Gradient start color for key stroke in a pressed state
+KeyPressedStrokeStartColor=0xff3fff3f
+
+//Gradient final color for key stroke in a pressed state
+KeyPressedStrokeEndColor=0xff00ef50
+
+
+//----------
+//Keyboard background
+//----------
+//Gradient start color for keyboard background
+KeyboardBackgroundStartColor=0xffba6098
+
+//Gradient final color for keyboard background
+KeyboardBackgroundEndColor=0xffba6098
+
+//Gradient type. 0 - linear, 1 - radial
+KeyboardBackgroundGradientType=0
+
+
+//----------
+//Special key values (Shift, Backspace, etc.).
+//----------
+//Text color on key
+SpecKeyTextColor=0xff09e8e8
+
+//Additional character color
+SpecKeySymbolColor=0xffff006f
+
+//Text color in a pressed state
+SpecKeyTextPressedColor=0xffffff90
+
+//Additional character color in a pressed state
+SpecKeySymbolPressedColor=0xff80e080
+
+//Gradient start color for key background
+SpecKeyBackStartColor=0xff603fc0
+
+//Gradient final color for key background
+SpecKeyBackEndColor=0xff603fc0
+
+//Gradient start color for key stroke
+SpecKeyStrokeStartColor=0xffffff42
+
+//Gradient final color for key stroke
+SpecKeyStrokeEndColor=0x00005050
+
+//Gradient start color for key background in a pressed state
+SpecKeyBackPressedStartColor=0xffff00e9
+
+//Gradient final color for key background in a pressed state
+SpecKeyBackPressedEndColor=0xffff00e9
+
+//Gradient type. 0 - linear, 1 - radial
+SpecKeyBackPressedGradientType=0
+
+//Gradient start color for key stroke in a pressed state
+SpecKeyPressedStrokeStartColor=0xff3fff3f
+
+//Gradient final color for key stroke in a pressed state
+SpecKeyPressedStrokeEndColor=0xff00ef50
+
+
+//----------
+//General
+//----------
+//Indent size of key background (in pixels) from the full key rectangle
+KeyGapSize=1
+
+//Corner radius of key rectangle on the X axis, if it is not set - 9
+KeyBackCornerX=0
+
+//Corner radius of key rectangle on the Y axis, if it is not set - 9
+KeyBackCornerY=0
+
