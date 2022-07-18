@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- a layout for coding in turtleScript educational scripting language; made by irulanCorrino
+ (you would need kTurtle educational IDE from KDE for this stuff being usable. IDE is not available for Android yet
+  but you may connect to desktop system via VNC (linux) or RDP (windows OS) and to mirror kTurtle's window easily)
+ [this is numbers + arithmetical/logic operators part of the keyboard] -->
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="14.2%p" >
+ <Row>
+  <Key android:horizontalGap="0.2%p" android:keyLabel="bS⇜" android:codes="-5" android:isRepeatable="true" android:keyHeight="7%p" android:keyWidth="4.7%p" />
+  <Key android:keyLabel="⇝dl" android:codes="-5112" android:isRepeatable="true" android:keyHeight="7%p" android:keyWidth="4.7%p" />
+  <Key android:codes="-504" android:keyLabel="⇵" android:keyWidth="4.7%p" android:keyHeight="7%p" />
+  <Key android:horizontalGap="0.1%p" android:keyLabel="not " android:keyHeight="7%p" android:specKey="true" />
+  <Key android:keyLabel="1" />
+  <Key android:keyLabel="2" />
+  <Key android:keyLabel="3" />
+  <Key android:keyLabel="&lt;= \n(" android:keyWidth="9.4%p" android:specKey="true" android:keyHeight="7%p" />
+  <Key android:keyLabel="&lt; \n!= " android:keyWidth="9.4%p" android:specKey="true" android:keyHeight="7%p" />
+  <Key android:keyLabel="✡\n❅" android:keyboard="$turtleScript1_flow_control" android:longKeyboard="$turtleScript2_math_commands"  android:keyWidth="9.4%p" android:keyHeight="7%p" />
+ </Row>
+ <Row>
+  <Key android:horizontalGap="0.2%p" android:keyLabel="n↵\n+" android:longCode="10" android:specKey="true" android:keyHeight="7%p" android:keyWidth="7%p" />
+  <Key android:keyLabel="^" android:specKey="true" android:keyHeight="7%p" android:keyWidth="7%p" />
+  <Key android:horizontalGap="0.2%p" android:keyLabel="and " android:keyHeight="7%p" android:specKey="true" />
+  <Key android:keyLabel="4" />
+  <Key android:keyLabel="5" />
+  <Key android:keyLabel="6" />
+  <Key android:keyLabel="&gt;= \n)" android:keyWidth="9.4%p" android:specKey="true" android:keyHeight="7%p" />
+  <Key android:keyLabel="&gt; \n== " android:keyWidth="9.4%p" android:specKey="true" android:keyHeight="7%p" />
+  <Key android:codes="-21" android:keyLabel="✍" android:specKey="true" android:keyHeight="7%p" android:keyWidth="9.4%p" />
+ </Row>
+ <Row>
+  <Key android:horizontalGap="0.2%p" android:keyLabel="-" android:specKey="true" android:keyHeight="7%p" android:keyWidth="7%p" />
+  <Key android:keyLabel="/" android:specKey="true" android:keyHeight="7%p" android:keyWidth="7%p" />
+  <Key android:horizontalGap="0.2%p" android:keyLabel="or " android:keyHeight="7%p" android:specKey="true" />
+  <Key android:keyLabel="7" />
+  <Key android:keyLabel="8" />
+  <Key android:keyLabel="9" />
+  <Key android:keyLabel=", \n= " android:keyWidth="9.4%p" android:specKey="true" android:keyHeight="7%p" />
+  <Key android:keyLabel="△" android:codes="19" android:specKey="true" android:isRepeatable="true" android:keyHeight="7%p" android:keyWidth="9.4%p" />
+  <Key android:keyLabel="{\n." android:keyHeight="7%p" android:keyWidth="9.4%p" />
+ </Row>
+ <Row>
+  <Key android:horizontalGap="0.2%p" android:keyLabel="*" android:specKey="true" android:keyHeight="7%p" android:keyWidth="7%p" />
+  <Key android:horizontalGap="0.2%p" android:codes="-320" android:keyLabel="COPY⇄" android:keyWidth="5.9%p" android:keyHeight="7%p" android:specKey="true" />
+  <Key android:codes="-322" android:longCode="-602" android:keyLabel="dlW↭\n   CUT⇎" android:keyWidth="5.9%p" android:keyHeight="7%p" android:specKey="true" />
+  <Key android:codes="-321" android:keyLabel="PASTE⇔" android:keyWidth="5.9%p" android:keyHeight="7%p" android:specKey="true" />
+  <Key android:keyLabel="Undo↷" android:codes="-336" android:specKey="true" android:keyWidth="5.9%p" android:keyHeight="7%p" />
+  <Key android:keyLabel="↶Redo" android:codes="-337" android:specKey="true" android:keyWidth="5.9%p" android:keyHeight="7%p" />
+  <Key android:keyLabel="⇴sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:keyHeight="7%p" android:keyWidth="5.9%p" />
+  <Key android:keyLabel="0" />
+  <Key android:codes="32" android:keyLabel="}\n✿━─❀" android:keyHeight="7%p" />
+  <Key android:keyLabel="◁" android:codes="21" android:specKey="true" android:isRepeatable="true" android:keyHeight="7%p" android:keyWidth="9.4%p" />
+  <Key android:keyLabel="▽" android:codes="20" android:specKey="true" android:isRepeatable="true" android:keyHeight="7%p" android:keyWidth="9.4%p" />
+  <Key android:keyLabel="▷" android:codes="22" android:specKey="true" android:isRepeatable="true" android:keyHeight="7%p" android:keyWidth="9.4%p" />
+ </Row>
+</Keyboard>

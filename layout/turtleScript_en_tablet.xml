@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- a layout for coding in turtleScript educational scripting language; made by irulanCorrino.
+ https://github.com/irulanCorrino
+ visit https://apps.kde.org/kturtle/ for getting this programming environment
+ (you would need kTurtle educational IDE from KDE for this stuff being usable. IDE is not available for Android yet
+  but you may connect to desktop system via VNC (linux) or RDP (windows OS) and to mirror kTurtle's window easily)
+ [visit https://docs.kde.org/stable5/en/kturtle/kturtle/index.html for documentation of the language] -->
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="7.0%p" >
+ <Row android:keyHeight="89%p" >
+  <Key android:keyLabel="bS⇜" android:codes="-5" android:isRepeatable="true" android:keyHeight="7.3%p" android:keyWidth="5.0%p" />
+  <Key android:keyLabel="⇝dl" android:codes="-5112" android:isRepeatable="true" android:keyHeight="7.3%p" android:keyWidth="5.0%p" />
+  <Key android:keyLabel="!\n1" />
+  <Key android:keyLabel="?\n2" />
+  <Key android:keyLabel=";\n3" />
+  <Key android:keyLabel=":\n4" />
+  <Key android:keyLabel="&quot;\n5" />
+  <Key android:keyLabel="\'\n6" />
+  <Key android:keyLabel="&amp;\n7" />
+  <Key android:keyLabel="_\n8" />
+  <Key android:keyLabel="pi \n9" />
+  <Key android:keyLabel="#\n0" />
+  <Key android:keyLabel=".\n, " android:specKey="false" android:smallLabel="false" />
+  <Key android:keyLabel="0≠1\n$" android:longKeyboard="$turtleScript3_num_log" />
+  <Key android:keyLabel="✡\n❅" android:keyboard="$turtleScript1_flow_control" android:longKeyboard="$turtleScript2_math_commands"  android:keyWidth="5.6%p" android:keyHeight="7.3%p" />
+ </Row>
+ <Row android:verticalGap="1.2%p" android:keyHeight="94%p" >
+  <Key android:codes="-22" android:longCode="-504" android:keyLabel="⇵\nturtle" android:keyWidth="8.6%p" android:keyHeight="7.3%p" />
+  <Key android:keyLabel="`\nq" />
+  <Key android:keyLabel="\nw" />
+  <Key android:keyLabel="’\ne" />
+  <Key android:keyLabel="\nr" />
+  <Key android:keyLabel="´\nt" />
+  <Key android:keyLabel="\ny" />
+  <Key android:keyLabel="\nu" />
+  <Key android:keyLabel="\ni" />
+  <Key android:keyLabel="@\no" />
+  <Key android:keyLabel="¯\np" />
+  <Key android:keyLabel="!= \n{" />
+  <Key android:keyLabel="== \n}" />
+  <Key android:keyLabel="+clean\n/ " android:keyHeight="7.3%p" android:popupCharacters="+-/^&lt;&gt;=,\" android:specKey="false" android:smallLabel="false" />
+ </Row>
+ <Row android:verticalGap="0.8%p" android:keyHeight="94%p">
+  <Key android:codes="-1" android:keyLabel="↕" android:isSticky="true" android:keyWidth="10.6%p" android:keyHeight="7.3%p" />
+  <Key android:keyLabel="\na" />
+  <Key android:keyLabel="−\ns" />
+  <Key android:keyLabel="―\nd" />
+  <Key android:keyLabel="\nf" />
+  <Key android:keyLabel="\ng" />
+  <Key android:keyLabel="‐\nh" />
+  <Key android:keyLabel="\nj" />
+  <Key android:keyLabel="\nk" />
+  <Key android:keyLabel="\nl" />
+  <Key android:keyLabel="&lt;= \n(" />
+  <Key android:keyLabel="&gt;= \n)" />
+  <Key android:codes="10" android:keyLabel="newLine↵" android:keyWidth="12.0%p" android:keyHeight="7.3%p" android:isRepeatable="true" android:specKey="true" />
+ </Row>
+ <Row android:verticalGap="0.8%p" android:keyHeight="94%p" >
+  <Key android:keyLabel="Undo↷" android:codes="-336" android:specKey="true" android:keyWidth="7.0%p" android:keyHeight="7.3%p" />
+  <Key android:keyLabel="↶Redo" android:codes="-337" android:specKey="true" android:keyWidth="7.0%p" android:keyHeight="7.3%p" />
+  <Key android:keyLabel="\nz" />
+  <Key android:keyLabel="\nx" />
+  <Key android:keyLabel="\nc" />
+  <Key android:keyLabel="\nv" />
+  <Key android:keyLabel="‑\nb" />
+  <Key android:keyLabel="–\nn" />
+  <Key android:keyLabel="—\nm" />
+  <Key android:keyLabel="[\n&lt; " android:specKey="false" android:smallLabel="true" />
+  <Key android:keyLabel="]\n&gt; " android:specKey="false" android:smallLabel="true" />
+  <Key android:keyLabel="^ \n= "  android:keyWidth="6.6%p" android:specKey="false" android:smallLabel="true" />
+  <Key android:keyLabel="△" android:codes="19" android:isRepeatable="true" android:specKey="true" android:keyWidth="9.0%p" android:keyHeight="7.3%p" />
+  <Key android:keyLabel="⇴sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:keyHeight="7.3%p" />
+ </Row>
+ <Row android:verticalGap="0.8%p" >
+  <Key android:codes="-320" android:longCode="-325" android:keyLabel="info\nCOPY⇄" android:keyWidth="9.2%p" android:keyHeight="7.3%p" android:specKey="true" />
+  <Key android:codes="-322" android:longCode="-602" android:keyLabel="dlWd↭\n   CUT⇎" android:keyWidth="9.3%p" android:keyHeight="7.3%p" android:specKey="true" />
+  <Key android:codes="-321" android:keyLabel="PASTE⇔" android:keyWidth="9.3%p" android:keyHeight="7.3%p" android:specKey="true" />
+  <Key android:keyLabel="- \n+ " android:keyHeight="7.3%p" android:specKey="false" android:smallLabel="true" />
+  <Key android:codes="32" android:keyLabel="spatial\n✿━─❀"  android:popupCharacters="v2 $[-328,home]    $[-329,end]       $[-305,parStart]    $[-306,parEnd]       $[-326,pgUp]    $[-327,pgDown]            $[-304,txtEnd]             $[-503,settings]                          $[-616,dictionary]                 $[-519,autocomplete]   $[-507,appLauncher]            $[-338,selectSection]            $[-617,convertBase]" android:keyWidth="34.8%p" android:keyHeight="6.8%p" />
+  <!-- $[-303,txtStart] was not working with my tablet; depending on a size of screen you may would want to adjust spacing of buttons
+      [insert/remove some spaces between them] —irulan -->
+  <Key android:keyLabel="|\n*" android:keyHeight="7.3%p" />
+  <Key android:keyLabel="◁" android:codes="21" android:isRepeatable="true" android:keyHeight="7.3%p" android:specKey="true" />
+  <Key android:keyLabel="▽" android:codes="20" android:isRepeatable="true" android:specKey="true" android:keyWidth="9.0%p" android:keyHeight="7.3%p" />
+  <Key android:keyLabel="▷" android:codes="22" android:isRepeatable="true" android:keyHeight="7.3%p" android:specKey="true" />
+ </Row>
+</Keyboard>
