@@ -1,3 +1,4 @@
+![Screenshot_2022-07-17-21-36-45-1](https://user-images.githubusercontent.com/98284211/182998356-78540d26-f291-4b20-8b5a-a54a994deeef.png)
 > ```
 > Язык/Language:
 > turtleScript
@@ -175,3 +176,10 @@ but an IDENTICAL PIECE of code makes red undo/redo keys at a helper keyboard!
 >                       *[and there are constants like 'dpi' or 'screen size']
 > ```
 
+![4](https://user-images.githubusercontent.com/98284211/182998443-78814120-17ee-42ea-a3ac-4ac42af4d7b7.png)
+
+---
+![Screenshot_2022-07-17-06-58-13-1](https://user-images.githubusercontent.com/98284211/182998569-9dfc0730-88f8-4469-abe1-96a2b8146243.png)
+
+---
+![Screenshot_2022-07-17-07-00-16-1](https://user-images.githubusercontent.com/98284211/182998597-275195aa-b131-4d24-9eb8-9e2aee155497.png)
