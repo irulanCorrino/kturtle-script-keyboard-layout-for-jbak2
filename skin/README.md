@@ -1,3 +1,4 @@
+![Screenshot_2022-07-17-21-36-45](https://user-images.githubusercontent.com/98284211/182997386-39f6b918-9878-46c4-9add-3c200a48078b.png)
 
 ### Особенности (peculiarities):
 - этот скин для клавиатуры jbak2 называется «плоским», потому что он соответствует современным
@@ -38,3 +39,10 @@ more distinctive colors (and a backlight for pressed keys).
 > text color (rgb) 61, 255, 128
 > window background color 69, 0, 63
 > ```
+![Screenshot_2022-07-17-21-37-00](https://user-images.githubusercontent.com/98284211/182997614-eeabe029-40ec-4de0-b1c8-4c1a6950a142.png)
+
+---
+![Screenshot_2022-07-17-06-58-13](https://user-images.githubusercontent.com/98284211/182997838-0b7ea0a6-5b52-4034-8b23-4eb52e2a6842.png)
+
+---
+![Screenshot_2022-07-17-07-00-16](https://user-images.githubusercontent.com/98284211/182997892-3f7842dc-c63e-4638-acd4-40d554023c19.png)
